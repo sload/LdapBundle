@@ -1,7 +1,7 @@
 {
-    "name": "imag/ldap-bundle",
+    "name": "sload/ldap-bundle",
     "description": "LDAP Bundle for Symfony 2",
-    "homepage": "http://github.com/BorisMorel/LdapBundle",
+    "homepage": "https://github.com/sload/LdapBundle",
     "license": "CeCILL",
     "authors": [
         {
@@ -11,21 +11,9 @@
             "homepage" : "https://github.com/BorisMorel"
         },
         {
-            "name": "Juti Noppornpitak",
-            "email": "jutin@nationalfibre.net",
-            "role": "Fork Maintainer",
-            "homepage": "https://github.com/instaclick"
-        },
-        {
-            "name": "John Kary",
-            "email": "john@johnkary.net",
-            "role": "Fork Maintainer",
-            "homepage": "https://github.com/johnkary"
-        },
-        {
-            "name": "Shiroyuki",
-            "role": "Fork Maintainer",
-            "homepage": "https://github.com/shiroyuki"
+            "name": "Antoine PACAUD",
+            "email": "antoine.pacaud@gmail.com",
+            "role": "Fork Maintainer"
         }
     ],
     "support": {
